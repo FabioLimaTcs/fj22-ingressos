@@ -150,5 +150,10 @@
             </plugin>
         </plugins>
     </build>
-
+	<developers>
+		<developer>
+			<name>Fabio Lima</name>
+			<email>fabiolimatcs@gmail.com</email>
+		</developer>
+	</developers>
 </project>
